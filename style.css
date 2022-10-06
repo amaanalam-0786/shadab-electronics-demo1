@@ -1,0 +1,68 @@
+body {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.tb {
+  margin: 0;
+}
+
+.home {
+  height: 20rem;
+  background-color: #2192FF;
+  color: white;
+}
+
+.products {
+  height: 4rem;
+  width: auto;
+  background-color: #EEEEEE;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+h5 {
+  text-align: center;
+  color: black;
+}
+
+.ruler {
+  border: dotted 5px;
+  border-bottom: none;
+  width: 40px;
+  margin: 50px auto;
+}
+
+.space {
+  margin-left: 2em;
+}
+
+.strong {
+font-weight: bold;
+}
+
+.center {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.tv {
+  background-color: #EEEEEE;
+}
+
+.margin {
+  margin-right: 40%;
+}
+
+.size {
+  height: 50%;
+  width: 50%;
+}
+
+.margin {
+  text-align: left;
+}
